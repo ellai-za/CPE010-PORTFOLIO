@@ -3,7 +3,7 @@ A Compilation of Hands-on Activities
 
 Data Structures and Algorithms
 
-Course Intended Learning Outcomes:
+**Course Intended Learning Outcomes:**
 
 1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
 2. Design efficient algorithms and analyze their complexity.
